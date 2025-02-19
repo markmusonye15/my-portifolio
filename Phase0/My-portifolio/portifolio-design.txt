@@ -1,0 +1,7 @@
+a.Hero secton
+
+b.About me
+
+c.contact me
+
+d.footer section
