@@ -10,3 +10,48 @@ body {
   margin: 0 auto;
   border: 1px red;
 }
+img {
+  width: 20%;
+  height: 20%;
+  border-radius: 99%;
+}
+h1 {
+  color: rgb(53, 49, 45);
+}
+p {
+  margin: 0;
+}
+.subheading {
+  margin: 0 1rem;
+  color: rgb(88, 86, 83);
+}
+.button {
+  background-color: blue;
+  color: white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  width: 50%;
+}
+.contact-form {
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-form > button {
+  width: 20%;
+  background-color: black;
+  color: azure;
+  padding: 1rem 0;
+  border: none;
+}
+.contact-form > input {
+  width: 70%;
+  padding: 1rem 0.5rem;
+  border: none;
+  font-size: 20px;
+  outline: none;
+}
