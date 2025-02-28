@@ -44,7 +44,7 @@ p {
 .contact-form > button {
   width: 20%;
   background-color: black;
-  color: azure;
+  color: rgb(92, 97, 97);
   padding: 1rem 0;
   border: none;
 }
